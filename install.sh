@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Cloning Live Helper Chat repository"
-git clone https://github.com/LiveHelperChat/livehelperchat.git
+git clone https://github.com/SY-RD2/livehelperchat.git
 
 echo "Cloning php-resque repository"
 git clone https://github.com/LiveHelperChat/lhc-php-resque.git
